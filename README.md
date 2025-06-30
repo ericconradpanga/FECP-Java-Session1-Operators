@@ -4,7 +4,7 @@
 
 ## Eric Conrad Panga
 
-## Screenshot of Output
+## Screenshots of Output
 
 ![alt text](<screenshot 1.png>)
 
